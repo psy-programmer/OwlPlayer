@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OwlPlayer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Owl Player</string>
+    <string name="nav_header_subtitle">from PsyProgrammer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Music player</string>
+    <string name="menu_info">About me</string>
+    <string name="sonataName">Piano Sonata No. 14 (Beethoven)</string>
+    <string name="mozartName">Rondo (Allegretto) - Wolfgang Amadeus Mozart</string>
+    <string-array name="songs_title">
+        <item>Ludwig van Beethoven - Moonlight Sonata</item>
+        <item>Wolfgang Amadeus Mozart- Rondo-Allegretto</item>
+    </string-array>
+</resources>
